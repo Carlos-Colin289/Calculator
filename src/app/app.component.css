@@ -1,0 +1,41 @@
+form {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: auto;
+  text-align: center;
+  
+  color: aliceblue;
+}
+div {
+  background-color: cadetblue;
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.div_in0 {
+  background-color: brown;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+.div_in1 {
+  background-color: brown;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+.div_in2 {
+  background-color: brown;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+label{
+  text-align: left;
+  font-style: italic;
+  color: aliceblue;
+}
+button{
+  margin: auto;
+  text-align: center;
+}
+
